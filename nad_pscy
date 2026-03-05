@@ -3,7 +3,7 @@
 # name: nad_pscy (stands for "Plesk Server Check")
 # purpose: Do a check of resources and domain use for a Plesk server.
 # date: 2/22/2025, 7:49:00 PM
-# author: elemental88keys
+# author: NADCloud
 # status: v. 1: Scans for CPU, Memory, and SWAP health and checks if domains are going over their disk space and traffic limits on their service plans.
 
 # [0] Important imports...
